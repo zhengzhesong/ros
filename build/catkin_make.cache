@@ -1,0 +1,2 @@
+task1:task2:task3:task4
+-DCATKIN_DEVEL_PREFIX=/mnt/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/mnt/ros_ws/install -G Unix Makefiles
